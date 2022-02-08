@@ -1,0 +1,17 @@
+{
+    "name": "nenemoproject/eppdb",
+    "description": "ePPDB Online",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Hairul Azmi",
+            "email": "ilung82@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.11",
+        "mpdf/mpdf": "^8.0",
+        "vlucas/phpdotenv": "3.6"
+    }
+}
